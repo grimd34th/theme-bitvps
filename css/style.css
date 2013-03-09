@@ -67,30 +67,7 @@ div.padded {
       padding-right: 0px;  
       padding-bottom: 0.25in;  
       padding-left: 5em;  
-    }  
-	
-div.container {
-    height: 70px;
-    width: 140px;
-    margin:0;
-    padding:0;
-    background-image:url("../img/backa.png");
-}
- 
-div.container a, div.container a:link, div.nav a:visited {
-    display:block;
-}
- 
-div.container img {
-    width:100%;
-    height:100%;
-    border:0;
-	
-}
- 
-div.container a:hover img {
-    visibility:hidden;
-}
+    }
 
 .styled-button-6 {
 	background:#c0c0c0;
