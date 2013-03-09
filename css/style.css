@@ -17,7 +17,7 @@ text-transform:none;
 color:#9A9A9A;
 
 }
-#navbar-container{background:url(navbarback.png) left top repeat-x;}
+#navbar-container{background:url(../img/navbarback.png) left top repeat-x;}
 
 #footer {
    position:absolute;
@@ -25,11 +25,11 @@ color:#9A9A9A;
    width:100%;
    height:150px;   /* Height of the footer */
    background:#151515;
-   background:url(fotter.png)
+   background:url(../img/fotter.png)
 }
 
 #int-site-container{
-background:url(back.png) left top repeat-x;
+background:url(../img/back.png) left top repeat-x;
 height:476px;
 font-size:18px;
 
@@ -74,7 +74,7 @@ div.container {
     width: 140px;
     margin:0;
     padding:0;
-    background-image:url("backa.png");
+    background-image:url("../img/backa.png");
 }
  
 div.container a, div.container a:link, div.nav a:visited {
